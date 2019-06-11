@@ -111,10 +111,20 @@ class RNN(object):
         grads, _ = tf.clip_by_global_norm(tf.gradients(self.loss, tvars), self.grad_clip)
         train_op = tf.train.AdamOptimizer(self.learning_rate)
         self.optimizer = train_op.apply_gradients(zip(grads, tvars))
+  
+    def summary(self, sum_dir):
+        for var in tf.trainable_variables():
+            tf.summary.histogram(name=var.name, values=var)
+        tf.summary.scalar('loss', tf.reduce_mean(self.loss))
+        tf.summary.scalar('logits', tf.reduce_mean(self.logits))
+        summary_op = tf.summary.merge_all()
+        summary_writer = tf.summary.FileWriter(sum_dir, tf.get_default_graph())
+        return summary_op,summary_writer
 
-    def train(self, batch_generator, max_steps, save_path, save_every_n, log_every_n):
+    def train(self,  batch_generator, sum_dir,max_steps, save_path, save_every_n, log_every_n):
         self.session = tf.Session()
         with self.session as sess:
+            summary_op,summary_writer=self.summary(sum_dir)
             sess.run(tf.global_variables_initializer())
             # Train network
             step = 0
@@ -137,7 +147,7 @@ class RNN(object):
                         self.keep_prob: self.train_keep_prob,
                         self.initial_state: new_state}
                
-                batch_loss, new_state, _ = sess.run([self.loss,
+                batch_loss, summaries,ynew_state, _ = sess.run([self.loss,summary_op,
                                                      self.final_state,
                                                      self.optimizer],
                                                     feed_dict=feed)
@@ -148,6 +158,7 @@ class RNN(object):
                     print('step: {}/{}... '.format(step, max_steps),
                           'loss: {:.4f}... '.format(batch_loss),
                           '{:.4f} sec/batch'.format((end - start)))
+                    summary_writer.add_summary(summaries,step)
                 if (step % save_every_n == 0):
                     self.saver.save(sess, os.path.join(save_path, 'model'), global_step=step)
                 if step >= max_steps:

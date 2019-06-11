@@ -9,7 +9,7 @@ class Config(object):
     learning_rate=0.01
     train_keep_prob=0.5
     input_file='data/poetry.txt'
-    max_steps=60
+    max_steps=1000
     save_every_n=1000
     log_every_n=10
     max_vocab=3500 

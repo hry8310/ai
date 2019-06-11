@@ -13,6 +13,9 @@ def main(_):
     model_path = os.path.join('log', config.name)
     if os.path.exists(model_path) is False:
         os.makedirs(model_path)
+    sum_path = os.path.join('summ', config.name)
+    if os.path.exists(sum_path) is False:
+        os.makedirs(sum_path)
     with codecs.open(config.input_file, encoding='utf-8') as f:
         text = f.read()
     converter = TextConverter(text, config.max_vocab)
@@ -32,7 +35,9 @@ def main(_):
                     embedding_size=config.embedding_size
                     )
     model.train(g,
+                sum_path,
                 config.max_steps,
+                
                 model_path,
                 config.save_every_n,
                 config.log_every_n,
