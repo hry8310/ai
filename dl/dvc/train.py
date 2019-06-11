@@ -45,6 +45,8 @@ class Train(object):
         self.y_dev = np.array(self.y_dev) 
         
     def summary( self,t ):
+        tf.summary.scalar('loss', tf.reduce_mean(self.cnn.loss))
+        tf.summary.scalar('acc', tf.reduce_mean(self.cnn.accuracy))
         summary_op = tf.summary.merge_all()
         summary_dir = os.path.join(self.out_dir, 'summaries', t)
         summary_writer = tf.summary.FileWriter(summary_dir, tf.get_default_graph())
@@ -133,7 +135,7 @@ class Train(object):
                     if current_step % self.config.checkpoint_every == 0:
                         print(self.checkpoint_prefix)
                         path = saver.save(sess=self.sess, save_path=self.checkpoint_prefix, global_step=self.global_step)
-                    if current_step == 100:
+                    if current_step == 10000:
                         break
 
 # end
