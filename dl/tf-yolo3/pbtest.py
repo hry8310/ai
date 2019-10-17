@@ -17,7 +17,6 @@ import lib.utils as utils
 import tensorflow as tf
 from PIL import Image
 
-return_elements = ["define_loss/input_data_1:0", "define_loss/pred_sbbox/concat_2:0", "define_loss/pred_mbbox/concat_2:0", "define_loss/pred_lbbox/concat_2:0","define_input/training:0"]
 return_elements = ["input_data_1:0", "pred_sbbox/concat_2:0", "pred_mbbox/concat_2:0", "pred_lbbox/concat_2:0","cfg_input/training:0"]
 pb_file         = "./test.pb"
 image_path      = "./test/test4.jpg"
@@ -34,7 +33,6 @@ image_data = image_data[np.newaxis, ...]
 
 return_tensors = utils.read_pb(graph, pb_file, return_elements)
 
-print('xxxxxxxxxxxxxxxxxxxxxxxxx')
 with tf.Session(graph=graph) as sess:
     pred_sbbox, pred_mbbox, pred_lbbox = sess.run(
         [return_tensors[1], return_tensors[2], return_tensors[3]],

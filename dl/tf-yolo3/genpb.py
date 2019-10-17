@@ -10,7 +10,6 @@ from lib.dataset import Dataset
 from lib.model import Yolo3 
 from lib.config import cfg
 
-output_node_names = ["define_input/input_data", "define_loss/pred_sbbox/concat_2", "define_loss/pred_mbbox/concat_2", "define_loss/pred_lbbox/concat_2" ,"define_input/training"]
 output_node_names = ["input_data", "pred_sbbox/concat_2", "pred_mbbox/concat_2", "pred_lbbox/concat_2" ,"cfg_input/training"]
 def export_model(input_checkpoint, output_graph):
     #这个可以加载saver的模型
