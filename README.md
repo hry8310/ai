@@ -8,7 +8,7 @@
    <strong>ml</strong>
    <p> ml 目录主要包含一些机器学习的分类、聚类算法，当中混合了一些视觉相关的分类聚类算法（主要是依赖于opencv 和dlib 等库实现的小功能）
  
-   <ul>
+ 
     <li>分类</li>
     <ul>
      <li>adaboost：python的原生实现</li>
@@ -30,8 +30,8 @@
      	先是使用dlib提取人脸关键点特征。再根据聚类使用两种方式进行聚类：1、sklearn的DBSCAN，在聚类过程效果不太好，2、dlib的chinese_whispers。聚类效果明显优于 dbscan</li>
     </ul>
     
-   </ul> 
-   </p>
+  
+   <p>
    
     
    <strong>dl </strong>
