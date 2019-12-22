@@ -21,15 +21,7 @@
  
     
     <li>视觉</li>
-    <ul>
-     <li>ex-face：opencv+dlib 实现的换脸。采用凸包和对应的特征点，划分多个三角形分别复制</li>
-     <li>hear：使用opencv的Hear 工具，主要用于在liunx下生成各种sh脚本，包括样本create脚本、train 脚本等</li>
-     <li>hog：使用opencv 的svm对图片的正负样本进行分类。对样本要求极高，特别是正样本，对于长高，角度，旋转都有严格的要求。相对于CNN的特征提取能力，相对较弱</li>
-     <li>liveness：活体检测。包括摇头、张嘴、眨眼等</li>
-     <li>sock_liveness：活体的sock版。通过网络传输视频帧实现</li>
-     <li>same_face：检测同一张脸。在给定的多张人脸照片中，将是同一个人的照片归为一组，这样可以通过算法，将这些人的不同人脸照片。按人分组。
-     	先是使用dlib提取人脸关键点特征。再根据聚类使用两种方式进行聚类：1、sklearn的DBSCAN，在聚类过程效果不太好，2、dlib的chinese_whispers。聚类效果明显优于 dbscan</li>
-    </ul>
+    
     
   
    <p>
