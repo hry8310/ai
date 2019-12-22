@@ -1,5 +1,4 @@
-
-   <strong>AI概述</strong>
+<strong>AI概述</strong>
    <p> AI是自己学习开发的一些智能算法。其中dl主要是深度学习的内容（神经网络部分）。ml主要是机器学习的内容（包含部分opencv\dlib的视觉内容）
  
    </p>
