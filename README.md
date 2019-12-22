@@ -18,8 +18,7 @@
      <li>svm：python的原生实现，使用欧氏几何，支持多种核函数映射到高维几何，使用 cvxopt 解方程组。获得二次规划的解</li>
      <li>tree:实现ID3\C4.5\CART的版本。没有实现剪枝</li>
     </ul>
-    
-    <li>视觉</li>
+   <li>视觉</li>
     <ul>
      <li>ex-face：opencv+dlib 实现的换脸。采用凸包和对应的特征点，划分多个三角形分别复制</li>
      <li>hear：使用opencv的Hear 工具，主要用于在liunx下生成各种sh脚本，包括样本create脚本、train 脚本等</li>
