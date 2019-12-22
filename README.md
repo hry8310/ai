@@ -9,15 +9,6 @@
    <p> ml 目录主要包含一些机器学习的分类、聚类算法，当中混合了一些视觉相关的分类聚类算法（主要是依赖于opencv 和dlib 等库实现的小功能）
  
    <ul>
-    <li>分类</li>
-    <ul>
-     <li>adaboost：python的原生实现</li>
-     <li>bys：朴素贝叶斯的实现</li>
-     <li>kmeans：实现最原始的kmeans，使用欧氏几何，支持高斯核（RBF）核函数映射到高维几何</li>
-     <li>knn：python的原生实现，使用欧氏几何</li>
-     <li>svm：python的原生实现，使用欧氏几何，支持多种核函数映射到高维几何，使用 cvxopt 解方程组。获得二次规划的解</li>
-     <li>tree:实现ID3\C4.5\CART的版本。没有实现剪枝</li>
-    </ul>
     
     <li>视觉</li>
     <ul>
@@ -29,6 +20,17 @@
      <li>same_face：检测同一张脸。在给定的多张人脸照片中，将是同一个人的照片归为一组，这样可以通过算法，将这些人的不同人脸照片。按人分组。
      	先是使用dlib提取人脸关键点特征。再根据聚类使用两种方式进行聚类：1、sklearn的DBSCAN，在聚类过程效果不太好，2、dlib的chinese_whispers。聚类效果明显优于 dbscan</li>
     </ul>
+   
+    <li>分类</li>
+    <ul>
+     <li>adaboost：python的原生实现</li>
+     <li>bys：朴素贝叶斯的实现</li>
+     <li>kmeans：实现最原始的kmeans，使用欧氏几何，支持高斯核（RBF）核函数映射到高维几何</li>
+     <li>knn：python的原生实现，使用欧氏几何</li>
+     <li>svm：python的原生实现，使用欧氏几何，支持多种核函数映射到高维几何，使用 cvxopt 解方程组。获得二次规划的解</li>
+     <li>tree:实现ID3\C4.5\CART的版本。没有实现剪枝</li>
+    </ul>
+    
     
    </ul> 
    </p>
