@@ -24,17 +24,7 @@
     
     
   
-   </p>
-   
-    
-   <strong>dl </strong>
-   <p> dl 目录主要包含一些深度学习的算法，主要是一些神经网络的实现，大多是cnn相关的神经网络
  
-   <li>tcnn：居于tf（tensorflow,以后基本都用tf做简称）实现的cnn 文本分类器，主要使用区分文本相关内容，如：体育新闻、教育资讯等，使用简单的一层conv\pool+全连接+droopout。最后将输出层采用softmax做预测 </li>
-   <li>dvc：居于tf实现的cnn 图片分类器，主要使用区分 cat 和 dog ，使用简单的三层conv\pool+全连接+droopout+全连接。最后将输出层做预测 </li>
-   <li>rnn：居于tf 实现的简单rnn。里面有简单的lstm</li>
-   <li>tf-yolo3 居于tf实现的yolo3，边框的损失都是使用平方损失函数，当中还包含了一些与移植相关的代码，如pb文件的生成和使用等</li>
-   <br/><br/>
    
   
    <strong>持续更新中.....</strong>
