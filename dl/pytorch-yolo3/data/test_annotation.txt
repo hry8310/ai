@@ -1,0 +1,543 @@
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/000001.jpg 48,240,195,371,11 8,12,352,498,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/000006.jpg 187,135,282,242,15 154,209,369,375,10 255,207,366,375,8 138,211,249,375,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/000013.jpg 299,160,446,252,9
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/000022.jpg 68,103,368,283,12 186,44,255,230,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/000029.jpg 56,63,284,290,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/000040.jpg 1,52,384,290,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/000053.jpg 36,12,425,262,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/000057.jpg 133,53,385,358,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/000067.jpg 44,72,450,210,0
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/000071.jpg 61,75,443,274,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/000079.jpg 1,53,390,357,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/000085.jpg 22,70,254,327,14 338,12,500,199,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/000090.jpg 193,65,346,278,8 33,33,307,255,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/000097.jpg 58,174,270,285,17 1,220,156,375,8 208,139,267,235,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/000105.jpg 22,1,320,314,3 202,71,295,215,14 170,107,239,206,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/000114.jpg 158,64,432,365,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002138.jpg 2,28,333,318,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002147.jpg 57,17,500,328,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002154.jpg 1,91,184,217,6 407,95,461,146,6 327,96,433,174,6 39,94,362,294,6 439,94,482,132,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002161.jpg 188,223,248,305,8 149,233,214,310,8 1,179,53,344,15
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002168.jpg 114,174,164,307,14 231,174,280,302,14 298,179,342,301,14 367,179,403,294,14 461,177,500,307,14 168,188,193,252,14 326,181,353,274,14 262,185,290,273,14 430,230,500,310,1 358,227,429,299,1 295,233,351,305,1 153,223,185,281,1 121,230,155,321,1
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002185.jpg 168,111,500,331,13 43,93,313,265,13 312,31,500,293,14 130,46,293,216,14 289,14,420,70,6 277,21,298,56,14 128,53,161,109,13 107,49,132,103,13 63,52,110,104,13 1,58,61,106,13 335,25,396,78,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002198.jpg 118,106,426,177,0
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002205.jpg 48,1,500,355,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002211.jpg 13,305,61,380,14 2,344,57,440,14 61,323,119,436,14 195,307,234,369,14 189,344,247,454,14 192,334,313,497,14 297,322,375,500,14 135,337,184,447,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002223.jpg 357,214,375,311,14 321,215,354,317,14 266,225,295,346,14 1,1,220,476,5
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002230.jpg 118,218,325,331,17 52,246,150,356,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002236.jpg 31,30,385,302,18
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002243.jpg 47,45,471,373,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002252.jpg 337,116,492,324,19 26,5,357,344,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002264.jpg 210,219,274,363,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002275.jpg 1,9,373,421,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002289.jpg 214,136,330,196,18
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002296.jpg 425,164,457,256,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002301.jpg 381,121,448,208,14 415,92,500,340,14 366,66,432,180,14 329,66,382,181,14 257,69,319,151,14 166,62,234,138,14 19,87,65,160,14 58,102,263,375,14 1,91,110,308,14 130,71,169,108,14 167,145,426,375,10
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002312.jpg 1,19,499,255,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002317.jpg 111,3,500,280,5 221,168,278,371,14 167,192,224,375,14 150,159,206,374,14 26,121,76,272,14 1,123,20,275,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002326.jpg 376,115,424,158,9 294,128,344,178,9 177,135,220,188,9 238,171,278,248,9 364,178,401,278,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002338.jpg 239,111,365,207,16 176,114,254,196,16 146,90,167,114,16 426,84,454,108,16 462,92,487,115,16
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002346.jpg 95,78,398,282,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002356.jpg 4,54,158,223,19
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002363.jpg 234,181,275,322,14 189,181,231,325,14 106,182,151,346,14 18,189,54,344,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002380.jpg 114,121,277,331,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002388.jpg 134,3,500,326,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002395.jpg 75,1,484,284,3
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002399.jpg 11,94,429,376,14 9,50,272,327,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002408.jpg 70,48,493,332,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002416.jpg 168,150,488,316,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002424.jpg 401,222,490,285,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002430.jpg 79,28,361,375,7 1,1,466,190,19
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002438.jpg 43,283,269,500,14 113,2,375,500,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002449.jpg 275,213,338,234,3 247,294,424,375,8 161,255,224,307,8 308,267,500,374,10 1,254,183,319,10
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002457.jpg 266,160,500,278,18
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002469.jpg 1,131,125,375,19 206,115,435,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002482.jpg 60,362,140,456,15
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002487.jpg 104,64,242,333,18 219,45,443,364,18
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002498.jpg 1,87,195,375,14 259,93,452,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002507.jpg 461,2,500,84,13 2,1,479,333,13
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002515.jpg 33,106,64,190,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002522.jpg 1,12,495,286,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002530.jpg 109,104,391,288,5 2,164,117,278,5
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002536.jpg 3,136,489,330,10 246,117,266,180,4
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002548.jpg 249,115,360,208,6 31,67,247,232,6 375,117,500,219,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/002553.jpg 114,28,457,377,12
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/004022.jpg 458,149,500,189,9 210,162,240,213,9 44,216,125,269,9
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/004029.jpg 10,68,489,195,17 443,52,488,129,7 13,51,59,118,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/004038.jpg 135,192,229,277,15 200,144,270,237,15 240,104,309,197,15
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/004043.jpg 160,111,375,266,6 334,158,432,296,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/004049.jpg 2,2,331,499,14 79,4,469,499,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/004055.jpg 204,346,263,500,4 303,389,360,500,4
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/004062.jpg 1,79,283,284,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/004068.jpg 306,184,348,328,4 270,172,305,241,4 260,18,430,259,14 86,22,195,151,8 1,38,112,138,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/004074.jpg 1,20,242,375,14 194,11,460,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/004081.jpg 174,96,348,209,9 284,103,500,375,15
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/004088.jpg 128,327,292,407,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/004097.jpg 398,148,500,205,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/004103.jpg 189,233,229,298,12 187,199,231,268,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/004112.jpg 43,134,228,345,11 71,22,500,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/004118.jpg 225,257,256,334,4 291,103,419,239,14 364,111,458,290,14 375,134,500,334,14 65,102,206,334,14 189,67,283,201,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/004125.jpg 190,81,489,375,14 45,1,245,334,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/004130.jpg 28,75,426,331,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/004144.jpg 9,330,67,396,5 200,385,250,471,14 38,374,56,440,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/004154.jpg 1,213,120,301,6 171,226,222,259,6 394,214,427,284,14 286,216,302,275,14 357,213,379,273,14 461,224,484,291,14 486,221,500,292,14 448,220,470,280,14 203,199,254,251,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/004159.jpg 17,78,208,363,15
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/004165.jpg 118,1,401,330,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/004173.jpg 234,119,464,356,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/004179.jpg 163,78,249,233,14 229,36,380,239,14 86,82,246,375,14 407,8,498,280,19
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/004183.jpg 57,57,456,375,6 2,75,66,128,6 192,81,268,196,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006316.jpg 12,37,216,301,9 181,26,402,268,9 284,39,500,270,9
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006326.jpg 333,73,500,181,6 21,76,392,320,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006332.jpg 1,1,398,269,3 149,171,173,214,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006340.jpg 12,85,459,361,6 247,56,266,92,14 226,55,251,91,14 245,59,268,92,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006347.jpg 18,102,455,207,0 321,114,479,150,0 466,119,500,138,0
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006359.jpg 193,43,217,129,4 221,45,244,127,4 82,142,186,230,15 167,40,500,272,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006365.jpg 73,62,402,295,12 348,103,484,206,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006373.jpg 235,371,374,500,17 15,281,56,471,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006380.jpg 73,85,421,375,10 248,165,267,200,4 256,124,277,178,4 278,114,294,167,4 343,55,362,85,14 332,62,384,134,14 346,77,424,179,14 362,96,436,209,14 311,117,500,336,14 277,40,317,83,14 238,44,263,83,14 219,57,261,102,14 181,63,241,114,14 128,64,243,143,14 120,92,210,218,14 72,105,181,259,14 1,155,164,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006388.jpg 15,190,446,344,5
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006394.jpg 33,16,322,452,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006402.jpg 30,73,65,157,4 71,75,107,162,4
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006407.jpg 47,92,385,343,5 1,214,55,349,14 259,139,298,222,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006413.jpg 32,181,216,496,1 25,27,110,356,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006420.jpg 1,176,111,269,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006431.jpg 134,133,355,295,13 221,62,341,268,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006441.jpg 1,184,69,262,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006453.jpg 323,82,450,375,14 219,68,351,369,14 164,121,246,374,14 60,73,184,371,14 1,245,61,375,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006461.jpg 25,202,55,310,8 46,205,125,324,8 127,209,210,327,8 28,217,211,328,10
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006471.jpg 61,39,95,80,14 100,58,121,91,14 255,157,278,186,14 298,114,311,151,14 349,252,372,283,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006481.jpg 74,29,443,324,6 412,7,436,163,14 383,26,412,136,14 330,7,366,98,14 355,17,383,82,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006490.jpg 80,309,109,332,2 143,165,169,248,14 210,9,269,67,3 172,27,226,65,3
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006496.jpg 64,220,95,276,15 95,173,158,324,15 41,1,375,500,15
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006504.jpg 4,224,213,500,17
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006511.jpg 8,2,497,332,12
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006517.jpg 10,229,39,275,14 280,203,430,334,14 219,241,284,334,14 19,210,106,296,14 5,163,217,334,14 194,134,312,303,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006525.jpg 3,310,168,433,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006531.jpg 209,256,231,297,13 210,240,227,262,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006539.jpg 260,112,500,375,14 2,45,234,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006545.jpg 75,7,362,277,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006555.jpg 185,201,405,359,12 1,28,481,359,12
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006561.jpg 56,77,447,310,13 163,9,376,252,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006568.jpg 1,86,357,500,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006577.jpg 1,99,339,361,0 349,142,362,204,14 424,158,451,229,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006582.jpg 3,11,397,375,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006591.jpg 217,185,341,332,9 208,153,235,216,14 188,152,207,215,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006598.jpg 87,1,500,322,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006607.jpg 25,1,459,375,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006615.jpg 1,49,345,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006624.jpg 208,11,263,76,19 370,128,432,336,14 295,153,388,262,14 111,149,187,229,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006634.jpg 147,216,448,335,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006642.jpg 145,162,309,271,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006650.jpg 195,116,346,291,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006656.jpg 416,1,500,64,14 306,71,500,375,14 2,2,311,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006665.jpg 201,61,241,192,18
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006676.jpg 326,163,500,344,17 48,156,173,275,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006686.jpg 1,162,232,342,14 146,146,435,367,14 40,150,476,375,17 459,307,500,351,14 479,258,500,302,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006693.jpg 65,96,288,220,6 302,82,500,184,6 433,60,456,83,14 487,53,500,84,14 458,63,474,83,14 273,71,302,156,14 250,80,266,107,14 225,77,238,96,14 207,80,227,98,14 86,83,119,124,14 37,90,65,169,14 6,96,34,171,14 203,104,226,128,14 131,103,173,136,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006710.jpg 202,85,287,375,14 258,67,418,375,14 412,100,466,262,14 108,57,215,375,14 468,117,500,231,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006715.jpg 36,39,335,461,18
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006721.jpg 180,15,278,107,8 1,86,500,375,10
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006729.jpg 56,22,236,333,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006741.jpg 66,149,372,319,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006745.jpg 263,189,347,264,8 159,156,203,211,8 102,218,178,320,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006752.jpg 213,145,280,221,0
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006758.jpg 147,83,235,124,0 194,256,479,353,0 57,290,167,343,0
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006770.jpg 225,157,387,294,9
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006776.jpg 271,144,446,363,15 363,64,461,232,15
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006785.jpg 3,10,485,308,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006791.jpg 55,19,476,329,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006796.jpg 125,91,348,298,13 146,41,345,283,14 1,32,54,104,13 33,26,93,102,13 82,35,134,102,13 128,28,164,106,13 166,42,265,100,13 343,43,366,100,13 360,42,397,98,13 390,35,462,99,13
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006807.jpg 2,1,500,373,15
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006815.jpg 216,123,431,248,11 126,90,299,226,16
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006820.jpg 100,1,500,374,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006831.jpg 8,62,479,345,1
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006843.jpg 274,188,315,240,15 193,184,238,238,15 234,136,267,241,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006854.jpg 2,18,375,426,6 313,22,375,83,6 1,12,77,80,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006863.jpg 370,132,500,266,12 244,129,404,287,12 134,138,313,265,12 408,114,469,225,14 274,114,359,194,14 192,113,269,207,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006873.jpg 69,95,411,276,12 209,56,325,194,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006881.jpg 114,2,500,349,9
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006889.jpg 354,174,482,211,3
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006895.jpg 20,188,178,360,8 217,196,500,375,17
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006902.jpg 135,100,352,295,11 309,1,397,117,15
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006907.jpg 42,327,349,419,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006921.jpg 109,149,258,319,13 247,124,294,202,14 206,184,310,274,13 71,206,154,305,14 320,118,373,328,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006927.jpg 278,120,480,375,2 1,1,408,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006937.jpg 24,217,189,418,17 113,129,199,266,15
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006946.jpg 7,2,489,308,0
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006957.jpg 135,231,289,375,14 129,180,295,375,14 277,200,363,351,14 339,138,497,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006967.jpg 158,158,247,312,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006974.jpg 397,183,480,233,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006979.jpg 65,31,416,500,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006985.jpg 201,146,326,217,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006993.jpg 40,33,426,334,1
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/006999.jpg 11,33,381,375,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007010.jpg 66,89,379,375,1
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007015.jpg 102,92,424,236,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007026.jpg 1,153,443,335,0 243,191,489,297,0 121,132,316,190,0
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007032.jpg 2,142,500,375,17 240,26,408,346,14 46,181,293,299,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007043.jpg 227,56,461,332,14 5,99,274,275,14 1,91,64,203,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007053.jpg 26,91,158,332,14 158,117,265,332,14 252,110,401,332,14 259,133,401,332,14 355,111,479,332,14 217,35,444,140,14 1,2,230,160,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007061.jpg 11,39,496,367,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007069.jpg 374,185,436,232,9 158,151,213,195,9 100,121,184,184,9
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007083.jpg 40,120,253,412,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007094.jpg 3,195,375,375,17
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007102.jpg 89,2,408,370,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007110.jpg 1,205,28,294,19 357,210,492,348,8 349,214,494,375,8 1,238,373,375,10 463,121,500,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007116.jpg 31,37,473,304,17
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007124.jpg 19,36,172,451,14 75,215,192,500,1
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007134.jpg 209,22,327,216,14 437,101,479,217,14 403,141,480,293,12 42,81,410,362,12
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007142.jpg 240,75,449,316,18 41,83,220,317,18
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007155.jpg 54,138,444,284,0
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007160.jpg 2,133,329,500,1
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007170.jpg 1,155,115,334,14 121,100,397,334,14 192,119,326,296,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007176.jpg 29,197,477,430,6 76,123,184,354,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007183.jpg 4,93,495,314,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007192.jpg 1,109,500,375,17
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007199.jpg 87,36,500,374,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007206.jpg 109,165,250,270,18 284,199,306,257,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007220.jpg 178,154,252,252,14 240,154,308,253,14 355,213,500,345,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007228.jpg 21,61,186,271,14 237,108,312,215,8 252,115,357,214,8 26,206,500,374,10 144,127,303,225,10
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007233.jpg 28,2,500,287,3
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007239.jpg 37,55,436,230,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007248.jpg 43,138,344,500,15
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007254.jpg 64,47,374,431,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007264.jpg 1,153,255,329,17 229,209,500,375,17
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007269.jpg 195,172,402,248,2 216,139,408,213,2 134,75,288,152,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007278.jpg 40,245,86,276,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007287.jpg 30,47,341,269,17
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007293.jpg 82,103,422,305,12 50,80,206,301,12 210,185,369,319,14 172,17,259,121,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007306.jpg 373,100,500,338,14 310,94,394,229,14 148,114,256,241,14 1,116,167,375,14 115,222,500,375,10
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007312.jpg 68,76,352,300,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007317.jpg 65,172,277,330,2 150,11,322,301,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007324.jpg 97,238,401,375,1 197,264,500,375,1 171,111,418,375,14 250,101,500,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007332.jpg 2,126,57,202,19 22,202,204,369,14 165,152,256,328,14 265,135,383,340,14 280,2,500,227,14 166,296,234,375,7 66,103,159,192,15
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007338.jpg 255,86,500,338,13 273,44,487,338,14 167,30,277,214,13
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007342.jpg 153,174,197,263,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007349.jpg 84,244,105,287,14 83,202,101,236,14 98,2,500,375,18
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007355.jpg 2,157,374,500,13 43,6,266,282,14 4,205,37,308,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007362.jpg 1,65,438,330,6 306,46,500,110,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007368.jpg 169,91,260,145,6 268,94,346,143,6 316,85,387,163,6 52,76,144,226,14 2,198,310,397,13 45,273,387,500,13
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007379.jpg 174,86,461,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007386.jpg 1,47,500,321,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007393.jpg 109,227,447,333,10 314,189,440,333,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007400.jpg 61,354,215,415,3
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007404.jpg 113,80,426,310,14 207,97,225,135,4
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007409.jpg 99,106,457,334,7 74,56,348,174,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007420.jpg 161,92,387,333,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007429.jpg 16,228,310,481,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007441.jpg 81,44,420,356,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007450.jpg 1,178,190,241,18
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007456.jpg 93,63,168,168,4 123,55,185,170,4 277,29,331,122,4 223,57,288,160,4 153,92,241,287,4 322,43,433,291,4
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007464.jpg 167,114,255,249,3 300,264,493,310,3
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007473.jpg 2,132,369,417,15
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007487.jpg 185,2,499,375,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007495.jpg 150,60,405,337,5
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007501.jpg 2,4,500,375,6 433,46,486,156,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007507.jpg 2,186,54,233,6 59,190,160,236,6 160,187,208,223,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007512.jpg 71,154,247,234,2 293,127,390,305,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007518.jpg 456,234,496,294,6 196,234,305,293,6 116,231,225,284,6 49,233,159,280,6 4,221,114,271,6 309,230,353,257,6 262,222,323,253,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007531.jpg 117,92,169,182,14 238,43,291,137,14 383,18,490,198,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007541.jpg 162,116,436,350,1
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007549.jpg 311,1,395,160,15 351,1,500,233,15 139,2,345,223,15
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007554.jpg 420,175,470,214,9 17,195,65,231,9 221,168,288,285,14 298,166,355,304,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007561.jpg 200,68,500,305,17 3,64,192,203,17
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007569.jpg 2,289,181,333,4 210,290,387,333,4 56,154,107,197,4
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007580.jpg 373,278,408,290,6 68,277,83,312,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007584.jpg 1,2,500,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007591.jpg 25,89,311,419,5
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007597.jpg 261,179,291,234,8 294,147,382,245,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007604.jpg 171,98,467,239,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007610.jpg 164,196,192,257,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007620.jpg 91,172,253,480,12 118,99,242,304,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007628.jpg 81,1,499,372,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007635.jpg 316,14,500,211,3
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007643.jpg 24,25,325,448,15 1,47,124,341,15
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007648.jpg 33,171,294,375,14 279,163,348,235,14 313,182,446,375,14 329,262,494,375,8 139,226,350,375,10
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007659.jpg 108,195,190,375,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007669.jpg 67,30,416,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007684.jpg 238,180,274,216,8 134,239,162,279,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007693.jpg 133,106,448,363,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007701.jpg 256,175,441,274,6 167,184,288,254,6 94,190,139,239,6 2,187,113,256,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007708.jpg 140,276,309,375,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007716.jpg 197,122,372,319,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007725.jpg 138,209,346,349,1 190,147,316,346,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007733.jpg 58,204,454,382,7 82,1,482,133,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007739.jpg 165,210,222,372,4 4,169,161,395,8 16,101,52,174,8 85,69,373,395,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007750.jpg 97,113,294,480,12 119,85,252,307,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007757.jpg 15,40,483,252,6 3,11,210,92,6 391,26,479,64,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007766.jpg 192,35,305,188,14 60,101,407,282,12
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007774.jpg 1,43,384,375,12
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007783.jpg 1,2,489,375,13 470,206,496,279,4 295,1,353,103,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007788.jpg 5,119,494,327,3
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007796.jpg 68,118,498,334,18
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007802.jpg 2,11,500,375,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007807.jpg 30,27,456,317,6 409,149,500,217,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007817.jpg 2,22,388,482,14 225,98,474,446,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007825.jpg 28,125,477,254,0
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007830.jpg 208,34,492,374,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007839.jpg 51,47,443,321,6 256,1,500,131,6 1,99,34,193,15
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007848.jpg 211,62,426,340,13
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007852.jpg 26,176,500,356,18
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007862.jpg 111,122,500,369,17 213,105,420,375,14 196,84,358,374,14 117,99,274,347,14 29,53,304,301,14 100,45,158,129,14 167,49,212,119,14 458,52,475,90,4 423,53,439,88,4
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007871.jpg 8,76,212,375,14 92,100,334,375,14 250,62,500,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007880.jpg 36,54,437,268,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007888.jpg 260,55,428,227,14 61,81,194,232,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007894.jpg 274,134,331,189,16 337,135,415,193,16 285,193,472,344,16 132,181,301,316,16 19,145,93,238,16 57,140,107,216,16
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007904.jpg 89,121,140,254,14 413,109,447,175,14 348,116,375,173,14 319,113,355,178,14 160,124,174,159,14 131,128,146,160,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007913.jpg 242,56,500,375,15 19,94,126,375,14 221,90,326,266,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007927.jpg 1,65,478,319,6 451,117,500,176,14 487,109,500,179,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007936.jpg 23,46,477,447,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007942.jpg 95,29,251,255,12 309,147,415,327,14 340,151,397,324,14 328,60,429,309,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007949.jpg 386,186,486,276,5 279,181,396,292,5 178,176,291,306,5 3,157,192,344,5
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007957.jpg 91,37,380,332,14 1,141,132,314,14 125,94,213,220,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007965.jpg 77,126,356,499,14 18,86,332,498,14 349,126,389,156,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007972.jpg 303,34,406,143,14 107,60,210,151,14 226,49,472,253,12 4,61,288,275,12
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007978.jpg 255,134,327,223,13 247,107,327,215,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007985.jpg 1,1,500,297,0 229,104,305,330,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007990.jpg 1,70,475,299,3
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/007995.jpg 20,115,441,218,0
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008007.jpg 139,1,460,309,1
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008014.jpg 229,21,375,242,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008020.jpg 12,202,137,298,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008027.jpg 1,119,172,410,14 26,248,168,500,12
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008035.jpg 305,369,375,475,6 131,355,163,382,14 213,383,244,429,14 13,359,43,449,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008045.jpg 235,2,463,144,10 334,6,500,143,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008052.jpg 239,74,338,139,6 199,38,242,153,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008058.jpg 397,286,500,375,14 353,64,478,356,14 153,66,281,375,14 1,46,136,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008070.jpg 2,34,341,500,14 33,129,99,322,14 14,132,56,315,14 90,143,117,249,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008077.jpg 1,114,135,365,14 333,106,500,375,14 175,157,415,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008088.jpg 51,3,500,375,5 2,225,32,258,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008094.jpg 230,294,309,372,4
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008104.jpg 1,76,458,282,0 231,204,266,282,14 409,189,450,310,14 362,188,401,311,14 341,190,376,303,14 472,193,499,274,14 444,192,474,262,14 426,186,447,258,14 135,204,192,222,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008113.jpg 119,136,209,284,8 276,134,364,270,8 211,147,291,303,8 159,142,320,284,10
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008120.jpg 62,65,325,432,14 229,186,377,434,14 4,1,378,136,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008128.jpg 85,87,349,294,1 98,43,220,249,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008134.jpg 19,8,71,147,4 73,10,122,146,4 124,9,172,147,4 178,20,219,147,4 222,22,267,148,4 272,22,322,149,4 327,22,373,147,4 377,21,423,147,4 429,22,477,149,4 20,195,65,319,4 69,195,114,319,4 121,198,163,318,4 173,196,213,320,4 220,196,263,318,4 271,182,316,304,4 325,196,367,318,4 373,193,417,316,4 426,195,468,317,4
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008145.jpg 1,153,404,356,3 343,202,500,358,3
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008149.jpg 2,22,412,375,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008155.jpg 1,224,219,461,17 334,186,369,227,15
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008161.jpg 255,267,322,316,6 320,280,349,304,6 66,254,237,367,6 141,119,364,195,6 1,200,50,272,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008170.jpg 9,1,194,374,14 301,49,401,333,14 234,57,259,114,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008179.jpg 82,2,380,228,19
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008184.jpg 108,366,208,500,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008193.jpg 179,96,354,216,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008198.jpg 1,29,488,333,10
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008207.jpg 375,18,492,193,14 301,37,396,193,14 206,46,356,195,14 143,39,231,193,14 106,51,167,193,14 11,90,108,193,14 8,243,172,398,14 159,264,227,338,14 144,264,309,398,14 270,264,330,361,14 308,306,357,398,14 329,243,447,395,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008215.jpg 79,133,194,405,14 246,129,363,263,16 67,20,165,69,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008227.jpg 341,137,456,333,13
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008233.jpg 170,50,500,370,14 135,212,268,305,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008239.jpg 218,43,412,269,14 52,62,241,290,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008245.jpg 73,213,500,375,10 199,310,304,375,8 46,234,189,362,8 2,227,81,370,8 357,162,429,288,14 298,150,364,260,14 256,158,315,248,14 211,149,262,236,14 100,153,188,223,14 26,174,86,297,14 290,98,323,161,15
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008255.jpg 41,224,214,422,1 49,117,188,339,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008264.jpg 33,84,479,342,5 488,192,500,227,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008270.jpg 21,7,489,427,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008276.jpg 100,66,499,375,14 345,188,452,229,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008286.jpg 222,296,459,421,17
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008290.jpg 103,34,370,244,6 402,46,500,103,6 131,22,381,113,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008304.jpg 125,162,371,490,9 2,123,252,486,9
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008314.jpg 231,51,309,224,14 162,106,453,309,12
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008328.jpg 137,164,250,428,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008334.jpg 154,82,289,188,16
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008343.jpg 13,123,334,500,16
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008350.jpg 163,132,230,376,14 124,139,192,314,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008356.jpg 135,14,434,262,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008362.jpg 373,1,500,141,1 35,35,347,334,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008369.jpg 329,228,366,259,3 320,196,364,234,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008377.jpg 157,2,500,374,14 1,1,137,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008382.jpg 169,46,192,105,4 4,127,500,437,10
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008393.jpg 15,1,238,107,2 41,29,298,358,2 203,82,500,375,2 210,158,500,375,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008399.jpg 72,141,429,472,12 181,108,322,301,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008404.jpg 183,72,329,206,19
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008408.jpg 6,68,494,366,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008417.jpg 82,322,217,399,17
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008421.jpg 100,67,397,230,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008435.jpg 145,115,291,224,18
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008441.jpg 59,15,224,266,11 172,74,472,312,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008451.jpg 249,48,421,375,14 61,244,169,360,19
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008459.jpg 170,238,500,334,0 107,179,270,249,0 359,154,450,186,0
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008469.jpg 224,1,500,375,14 1,85,223,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008476.jpg 108,348,229,448,12 41,344,176,449,12
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008486.jpg 156,231,215,291,19 169,241,296,438,8 1,309,138,500,17
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008490.jpg 10,239,173,460,8 173,242,331,454,8 70,240,281,411,10
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008497.jpg 70,1,488,294,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008505.jpg 305,109,477,375,14 68,121,210,280,14 209,122,325,311,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008511.jpg 8,24,493,325,1
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008525.jpg 3,58,262,366,19 256,253,361,449,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008532.jpg 42,78,447,347,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008540.jpg 176,37,414,333,1 1,1,198,283,1 249,1,433,206,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008546.jpg 2,4,497,373,5
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008552.jpg 1,116,333,393,18
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008561.jpg 328,56,500,265,19 142,61,323,232,19
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008567.jpg 122,5,295,500,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008574.jpg 57,284,309,496,12 114,174,223,377,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008579.jpg 297,213,478,308,13 47,185,229,308,13 248,181,299,337,14 202,181,245,324,14 195,160,211,198,14 157,161,177,196,14 91,164,111,191,14 73,163,90,223,14 58,162,75,220,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008590.jpg 328,228,421,324,3
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008597.jpg 121,109,500,308,13 230,103,401,309,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008603.jpg 23,159,332,393,11 172,16,332,249,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008613.jpg 22,76,493,260,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008622.jpg 112,142,277,245,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008627.jpg 233,168,274,319,4
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008632.jpg 155,122,431,242,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008641.jpg 206,101,365,351,11 73,1,417,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008648.jpg 19,234,108,333,13 19,186,108,316,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008652.jpg 171,53,365,500,14 85,234,132,332,14 12,171,70,311,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008659.jpg 125,39,412,209,19
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008664.jpg 67,72,307,498,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008671.jpg 362,142,487,258,8 58,101,149,200,8 1,110,127,284,17 305,108,440,228,17
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008675.jpg 105,4,436,359,19
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008681.jpg 266,53,469,332,14 35,156,248,332,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008686.jpg 139,57,233,137,19 347,3,500,160,14 241,159,295,316,4
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008696.jpg 12,50,500,291,18
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008704.jpg 237,140,250,177,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008711.jpg 21,77,446,317,6 210,8,500,166,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008719.jpg 113,1,437,257,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008729.jpg 1,63,500,375,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008737.jpg 78,1,500,333,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008746.jpg 136,210,317,372,2 206,84,380,248,2 140,74,202,225,2 47,64,112,252,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008761.jpg 42,16,471,357,0
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008767.jpg 173,95,431,316,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008779.jpg 28,181,196,375,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008785.jpg 1,39,447,368,6 5,56,227,182,6 68,47,123,166,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008789.jpg 1,56,391,283,18
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008797.jpg 51,7,108,88,14 1,65,41,122,14 148,13,167,41,14 119,22,132,46,14 98,22,131,68,14 33,32,58,91,14 1,1,499,373,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008803.jpg 8,190,181,305,17 185,190,444,353,17 342,298,438,373,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008812.jpg 8,206,348,373,14 332,26,500,371,12
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008821.jpg 171,34,256,259,15 231,200,306,266,15
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008828.jpg 141,93,167,117,6 120,106,152,132,6 109,125,142,153,6 93,150,135,186,6 88,183,141,231,6 88,226,156,292,6 185,335,238,441,13 189,334,231,378,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008834.jpg 1,92,479,375,17
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008845.jpg 43,103,455,364,13 61,20,312,340,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008852.jpg 8,3,492,294,13
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008860.jpg 1,4,289,294,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008866.jpg 405,249,500,366,5
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008875.jpg 211,256,375,500,7 46,76,238,283,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008887.jpg 136,225,288,372,8 355,38,447,134,19 176,142,297,244,19
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008895.jpg 1,127,181,301,5 270,163,320,205,5 234,170,260,196,5 50,192,101,334,14 291,194,423,246,6 115,279,222,373,1
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008899.jpg 80,46,410,339,12 222,18,335,206,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008904.jpg 64,121,332,423,15
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008910.jpg 246,156,284,184,6 172,147,203,159,6 170,156,204,182,6 194,179,231,208,6 199,206,246,241,6 106,144,133,167,6 115,161,147,186,6 111,183,150,214,6 108,215,153,242,6 227,98,249,115,6 202,95,223,109,6 190,86,209,102,6 29,178,73,218,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008918.jpg 3,14,309,375,14 244,1,465,375,14 154,152,302,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008928.jpg 259,82,325,372,14 209,93,268,365,14 147,89,216,375,14 316,94,383,375,14 359,75,429,374,14 406,88,489,375,14 93,91,164,375,14 19,107,111,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008938.jpg 75,52,307,448,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008947.jpg 61,195,121,254,19 263,140,345,258,15 312,189,485,318,17 61,220,199,368,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008954.jpg 1,107,205,375,8 1,36,100,138,19 180,17,311,131,19 302,34,429,173,19 419,64,500,261,19 83,31,196,131,19
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008963.jpg 1,222,164,336,10 161,62,334,375,14 281,64,500,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008977.jpg 65,36,400,316,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008990.jpg 16,29,281,450,14 10,74,124,302,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/008994.jpg 149,149,397,360,13 2,158,132,345,13
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009003.jpg 3,65,333,499,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009011.jpg 70,92,355,287,18
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009017.jpg 182,29,458,373,14 142,32,311,252,14 90,66,206,243,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009026.jpg 36,305,169,365,3
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009033.jpg 271,326,358,365,6 252,337,331,371,6 207,335,303,377,6 123,327,259,382,6 98,342,242,385,6 31,341,187,397,6 2,341,138,406,6 1,367,67,419,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009043.jpg 169,120,277,225,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009050.jpg 53,47,458,320,13 2,8,122,176,13
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009056.jpg 312,208,377,271,8 335,230,408,310,8 345,238,426,328,8 151,209,203,266,8 109,229,182,309,8 95,238,175,326,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009065.jpg 13,107,469,316,13
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009071.jpg 55,78,477,285,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009077.jpg 392,96,468,242,14 282,102,340,260,14 307,107,418,263,14 149,114,181,196,14 88,121,140,211,14 41,143,85,185,14 17,145,58,188,14 227,135,282,163,6 121,140,210,169,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009084.jpg 43,77,481,375,13 127,68,237,240,11 1,217,98,375,11 451,83,500,191,8 369,83,437,180,8 313,76,375,137,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009093.jpg 80,72,451,273,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009101.jpg 3,80,193,318,12 3,104,363,318,12 367,131,471,318,12 76,17,175,318,14 228,90,270,132,14 344,81,477,316,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009107.jpg 1,44,422,374,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009115.jpg 135,135,343,299,1 126,59,267,367,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009122.jpg 289,266,500,355,5 82,295,97,330,14 125,297,204,333,6 226,305,290,336,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009130.jpg 34,140,362,462,12 137,74,301,306,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009137.jpg 213,147,266,169,3
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009143.jpg 4,80,251,349,14 4,157,371,500,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009152.jpg 93,133,157,326,14 134,176,202,329,13
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009164.jpg 184,304,214,400,4 59,364,375,500,10 1,214,157,500,14 54,139,201,369,14 164,225,294,366,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009170.jpg 248,158,362,292,9 153,154,207,250,9 115,141,141,189,9
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009182.jpg 19,27,500,335,6 431,11,500,101,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009198.jpg 22,27,484,396,1
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009204.jpg 132,62,327,374,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009211.jpg 152,140,302,214,0
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009220.jpg 47,22,429,337,18
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009226.jpg 128,1,351,209,19
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009232.jpg 194,71,418,375,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009237.jpg 225,194,271,319,1 112,310,187,458,1 218,63,301,168,14 231,135,289,266,14 171,146,241,250,14 126,174,216,300,14 120,233,187,417,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009248.jpg 3,34,331,372,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009258.jpg 63,175,334,500,1 52,1,321,470,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009263.jpg 61,160,136,307,8 17,96,104,307,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009267.jpg 24,233,76,256,6 323,240,427,272,6 198,248,294,284,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009277.jpg 55,143,263,322,13 130,103,252,319,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009293.jpg 52,1,298,448,13
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009300.jpg 64,153,173,369,2 173,84,286,274,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009305.jpg 76,74,401,318,1
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009314.jpg 183,192,321,330,5 90,209,351,500,14 214,252,339,437,14 202,211,254,300,14 57,235,100,351,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009321.jpg 33,57,478,285,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009332.jpg 196,247,334,356,0 158,293,233,397,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009341.jpg 23,82,480,305,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009352.jpg 248,131,382,255,7 124,2,174,228,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009357.jpg 365,149,500,305,19 189,182,305,302,19
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009364.jpg 263,2,500,375,14 8,92,316,375,14 145,41,174,77,14 209,39,238,78,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009370.jpg 90,113,210,340,14 51,207,240,370,1
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009380.jpg 87,84,397,245,12 209,41,295,184,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009385.jpg 5,25,500,375,10
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009395.jpg 84,160,199,234,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009400.jpg 352,134,429,260,9
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009415.jpg 70,108,256,321,14 153,1,498,320,14 465,152,500,269,14 199,179,288,278,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009426.jpg 181,197,383,301,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009431.jpg 1,107,121,500,4 65,1,375,500,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009442.jpg 2,16,392,333,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009450.jpg 243,170,375,334,9 30,153,166,329,9 1,141,96,242,9 160,119,281,173,9 117,119,192,237,9
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009462.jpg 105,286,266,472,15
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009474.jpg 142,1,375,365,19
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009483.jpg 14,19,333,487,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009489.jpg 173,104,300,244,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009498.jpg 97,65,356,299,5
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009506.jpg 2,2,500,333,18
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009513.jpg 105,179,286,470,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009525.jpg 149,69,259,289,14 71,113,316,413,12
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009535.jpg 181,90,424,332,12 227,48,323,275,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009544.jpg 7,2,316,237,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009553.jpg 135,167,201,198,0 239,124,309,155,0 246,153,312,184,0 255,181,319,210,0 354,83,424,116,0 359,113,424,143,0 358,141,423,173,0 362,171,425,198,0 366,195,429,221,0
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009559.jpg 346,159,467,249,1 185,155,344,248,1 248,91,295,241,14 308,86,379,248,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009569.jpg 133,170,234,301,16 89,203,401,340,12
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009575.jpg 95,1,500,287,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009583.jpg 281,18,398,96,11 1,1,324,331,14 259,1,500,245,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009593.jpg 172,174,394,269,6 393,153,429,267,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009601.jpg 118,180,227,255,6 438,159,475,271,14 467,156,500,273,14 388,148,429,262,14 312,147,363,248,14 378,149,394,255,14 361,152,382,254,14 241,161,264,236,14 277,162,301,238,14 262,166,279,234,14 305,166,328,241,14 212,166,249,234,14 1,117,131,339,14 332,69,366,129,14 383,58,415,116,14 361,66,379,124,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009607.jpg 128,129,363,284,2 175,209,460,348,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009616.jpg 47,93,406,291,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009626.jpg 2,129,486,353,17 35,147,441,275,14 348,316,374,374,4
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009632.jpg 312,268,396,333,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009640.jpg 150,114,370,232,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009646.jpg 58,82,380,375,7 1,9,500,375,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009653.jpg 2,37,168,375,14 164,85,337,375,14 119,23,500,375,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009662.jpg 75,263,500,375,10
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009672.jpg 416,76,500,206,7 150,114,443,375,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009677.jpg 86,23,422,312,1 1,2,125,156,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009688.jpg 100,4,329,145,6 38,105,394,375,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009696.jpg 14,203,68,253,2 231,1,500,334,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009705.jpg 439,8,500,138,13 239,1,397,46,6 342,5,468,96,13 202,30,416,132,13 55,60,467,259,13
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009716.jpg 79,117,302,322,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009725.jpg 4,230,129,353,1
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009731.jpg 86,71,341,248,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009741.jpg 1,216,42,328,8 109,233,199,363,8 185,77,428,372,14 133,180,205,308,14 189,196,220,242,14 103,217,134,273,15
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009751.jpg 75,33,403,329,18
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009759.jpg 3,3,433,328,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009768.jpg 52,168,94,235,9 119,162,201,239,9 345,131,426,256,12 351,96,406,209,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009775.jpg 39,63,173,430,2
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009783.jpg 191,119,305,296,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009788.jpg 58,62,487,337,1
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009798.jpg 295,127,456,344,14 289,128,387,250,14 118,134,191,243,14 68,139,165,273,14 12,154,121,347,14 54,153,344,372,10 281,239,435,375,8 167,202,192,278,4
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009804.jpg 458,129,471,151,14 458,131,491,227,14 486,128,500,175,14 362,130,381,163,14 390,133,404,163,14 12,135,388,333,6 157,136,171,150,14 198,133,212,156,14 135,135,142,146,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009814.jpg 146,65,347,301,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009820.jpg 1,1,500,347,7
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009827.jpg 43,94,198,220,18 279,150,330,178,18 471,163,500,213,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009838.jpg 5,97,486,245,0
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009846.jpg 95,127,487,359,17 36,116,80,193,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009853.jpg 2,106,128,295,8 135,2,429,343,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009861.jpg 355,169,500,340,16 310,110,390,227,16 71,167,220,368,16 129,122,282,245,16 197,102,272,143,16
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009873.jpg 169,128,461,258,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009885.jpg 1,2,500,375,3 185,157,335,375,14 175,198,209,229,14 44,192,90,229,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009891.jpg 22,1,125,188,4
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009899.jpg 140,2,466,375,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009907.jpg 2,122,313,458,11
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009914.jpg 305,253,365,340,8
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009921.jpg 146,152,500,194,18
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009927.jpg 70,156,444,265,6
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009931.jpg 135,159,170,250,14 90,160,143,250,12 180,158,229,189,12 226,131,298,172,12 332,103,493,161,12
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009937.jpg 43,117,500,276,12 350,89,463,231,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009951.jpg 236,128,500,333,18 379,192,418,227,14 429,189,467,227,14
+/root/mt/yolo/voc/test/VOCdevkit/VOC2007/JPEGImages/009957.jpg 106,89,236,308,14 54,128,295,436,12
