@@ -39,7 +39,8 @@
    <li>dvc：居于tf实现的cnn 图片分类器，主要使用区分 cat 和 dog ，使用简单的三层conv\pool+全连接+droopout+全连接。最后将输出层做预测 </li>
    <li>rnn：居于tf 实现的简单rnn。里面有简单的lstm</li>
    <li>tf-yolo3 居于tf实现的yolo3，边框的损失都是使用平方损失函数，当中还包含了一些与移植相关的代码，如pb文件的生成和使用等</li>
-   <br/><br/>
+   <li>pytorch-yolo3 居于pytorch 框架实现的yolo3，边框的损失都是使用IOU最大化的损失函数</li>
+  <br/><br/>
    
   
    <strong>持续更新中.....</strong>
