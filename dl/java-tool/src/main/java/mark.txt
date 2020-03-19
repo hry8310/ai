@@ -3,3 +3,5 @@ https://opencv.org/releases/
 install:install-file -DgroupId=org.opencv   -DartifactId=opencv -Dversion=3.1.0  -Dfile=D:/Users/admin/Downloads/opencv/build/java/opencv-310.jar    -Dpackaging=jar
 
 然后将C:\opencv\build\java\x64\opencv_java401.dll复制到C:\Windows\System32目录下，当然也可以
+
+然后将D:\Users\admin\Downloads\opencv\build\bin\opencv_ffmpeg310_64.dll复制到C:\Windows\System32目录下，(摄像头)
